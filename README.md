@@ -45,13 +45,8 @@ Cord: Marigold는 플레이어가 직접 사격하며 기지를 방어하는 3�
 
 게임 실행 파일은 아래 링크에서 다운로드할 수 있습니다.
 
-**Windows**
-
-[Download for Windows](https://drive.google.com/file/d/19D6CXySd6lN7rgg42rRtS_mboQrVkVyU/view)
-
-**macOS**
-
-[Download for macOS](https://drive.google.com/file/d/1VpC8uMO6C5oWmSdndyjzkfCf9CmK16RZ/view)
+- [Download for Windows](https://drive.google.com/file/d/19D6CXySd6lN7rgg42rRtS_mboQrVkVyU/view)
+- [Download for macOS](https://drive.google.com/file/d/1VpC8uMO6C5oWmSdndyjzkfCf9CmK16RZ/view)
 
 ---
 
